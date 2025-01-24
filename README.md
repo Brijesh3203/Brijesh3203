@@ -17,11 +17,11 @@ A skilled and versatile Software Engineer with expertise in Python, Web Developm
 
 ## 🛠️ Skills
 ### Languages & Frameworks  
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)&nbsp;  
-[![Web Development](https://img.shields.io/badge/Web%20Development-4285F4?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Learn)&nbsp;  
-[![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)&nbsp;  
-[![MAUI](https://img.shields.io/badge/MAUI-512BD4?style=flat&logo=xamarin&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/maui/overview)&nbsp;  
-[![AI/ML](https://img.shields.io/badge/AI%2FML-00BFFF?style=flat&logo=tensorflow&logoColor=white)](https://en.wikipedia.org/wiki/Artificial_intelligence)&nbsp;  
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)  
+[![Web Development](https://img.shields.io/badge/Web%20Development-4285F4?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Learn)  
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)  
+[![MAUI](https://img.shields.io/badge/MAUI-512BD4?style=flat&logo=xamarin&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/maui/overview)  
+[![AI/ML](https://img.shields.io/badge/AI%2FML-00BFFF?style=flat&logo=tensorflow&logoColor=white)](https://en.wikipedia.org/wiki/Artificial_intelligence)  
 
 
 ### Tools & Technologies
