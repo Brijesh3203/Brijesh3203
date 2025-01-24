@@ -12,7 +12,7 @@ A skilled and versatile Software Engineer with expertise in Python, Web Developm
 
 [![Github Badge](https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white)](https://github.com/Brijesh3203/)
 [![Email Badge](https://img.shields.io/badge/Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:dhorajiyabrijesh607@gmail.com)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)]([http://arpit-blog.epizy.com](http://brijeshdhorajiya.kesug.com/))
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](http://brijeshdhorajiya.kesug.com/)
 
 
 ## 🛠️ Skills
