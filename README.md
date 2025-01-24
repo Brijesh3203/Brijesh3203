@@ -16,13 +16,13 @@ A skilled and versatile Software Engineer with expertise in Python, Web Developm
 
 
 ## 🛠️ Skills
-### Languages & Frameworks
-[![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/)&nbsp;
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)](https://dart.dev/)&nbsp;
-[![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)&nbsp;
-[![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))&nbsp;
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)](https://www.android.com/)&nbsp;
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)](https://flutter.dev/)&nbsp;
+### Languages & Frameworks  
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)&nbsp;  
+[![Web Development](https://img.shields.io/badge/Web%20Development-4285F4?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Learn)&nbsp;  
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)&nbsp;  
+[![MAUI](https://img.shields.io/badge/MAUI-512BD4?style=flat&logo=xamarin&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/maui/overview)&nbsp;  
+[![AI/ML](https://img.shields.io/badge/AI%2FML-00BFFF?style=flat&logo=tensorflow&logoColor=white)](https://en.wikipedia.org/wiki/Artificial_intelligence)&nbsp;  
+
 
 ### Tools & Technologies
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)&nbsp;
