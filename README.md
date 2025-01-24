@@ -1,11 +1,11 @@
-# Hi there 👋, I'm Arpit Vekariya
+# Hi there 👋, I'm Brijesh Dhorajiya
 
 ## 🚀 About Me
-I'm a passionate developer with expertise in Flutter and Android development. I love creating beautiful and functional mobile applications. My goal is to build products that not only meet the requirements but also provide an excellent user experience.
+## Software Engineer Profile
+A skilled and versatile Software Engineer with expertise in Python, Web Development, .NET, MAUI, and AI/ML technologies. Passionate about designing and building efficient, scalable, and innovative solutions across various domains. Proficient in developing web and mobile applications, integrating advanced AI/ML models, and leveraging cross-platform frameworks to deliver robust user experiences. Proven ability to adapt to emerging technologies and drive impactful results in dynamic environments.
 
-- 🌍 I'm based in Surat, Gujarat
-- 🏢 Owner of **Kanudo Infotech** in Ahmedabad, Gujarat
-- 🌱 I’m currently learning Flutter
+- 🌍 I'm based in Rajkot, Gujarat
+- 🏢 Owner of **IT CREATION** in Ahmedabad, Gujarat
 - ⚡ Fun fact: I'm comming to teen
 
 ## 📫 Connect with Me
