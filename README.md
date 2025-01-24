@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Brijesh Dhorajiya
 
 ## 🚀 About Me
-## Software Engineer Profile
+## Software Engineer
 A skilled and versatile Software Engineer with expertise in Python, Web Development, .NET, MAUI, and AI/ML technologies. Passionate about designing and building efficient, scalable, and innovative solutions across various domains. Proficient in developing web and mobile applications, integrating advanced AI/ML models, and leveraging cross-platform frameworks to deliver robust user experiences. Proven ability to adapt to emerging technologies and drive impactful results in dynamic environments.
 
 - 🌍 I'm based in Rajkot, Gujarat
@@ -10,9 +10,9 @@ A skilled and versatile Software Engineer with expertise in Python, Web Developm
 
 ## 📫 Connect with Me
 
-[![Github Badge](https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white)](https://github.com/Arpitpatel259)
-[![Email Badge](https://img.shields.io/badge/Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:aj.vekariya123@gmail.com)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](http://arpit-blog.epizy.com)
+[![Github Badge](https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white)]([https://github.com/Brijesh3203])
+[![Email Badge](https://img.shields.io/badge/Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:dhorajiyabrijesh607@gmail.com)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)]([http://arpit-blog.epizy.com](http://brijeshdhorajiya.kesug.com/))
 
 
 ## 🛠️ Skills
